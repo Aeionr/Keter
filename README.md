@@ -1,90 +1,128 @@
-# Hi there, I'm [你的名字] 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- *********************************************************************** -->
+<!-- ** ✨ HEADER / BANNER ✨ ** -->
+<!-- *********************************************************************** -->
 
-<!-- 可選：在這裡放一個吸睛的 Banner 圖片 -->
 <p align="center">
-  <img src="[你的 Banner 圖片 URL，例如放在 repo 裡或用圖片託管服務]" alt="Welcome Banner" width="800"/>
+  <!-- Tip: 在 Canva, Figma 或 Photoshop 設計一個 1280x400 左右的酷炫 Banner！ -->
+  <img src="[你的 Banner 圖片 URL]" alt="Hi, I'm [你的名字]" width="100%"/>
 </p>
 
-## 🚀 About Me
+<!-- *********************************************************************** -->
+<!-- ** 👋 INTRODUCTION 👋 ** -->
+<!-- *********************************************************************** -->
 
-I'm a [你的角色，例如：軟體工程師、前端開發者、數據科學家...] passionate about [你熱衷的領域 1]、[你熱衷的領域 2] and [你熱衷的領域 3]. I enjoy turning complex problems into elegant solutions and I'm always eager to learn new technologies.
+<h1 align="center">Hey there, I'm [你的名字]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p align="center">
+  <em>A [你的角色，例如：熱愛開源的後端工程師] from [你的所在地]</em><br/>
+  Passionate about [你熱衷的領域 1] & [你熱衷的領域 2]. Turning ideas into reality with code.
+</p>
 
-*   🔭 I’m currently working on **[你正在進行的專案名稱或描述]**
-*   🌱 I’m currently learning **[你正在學習的技術或概念]**
-*   👯 I’m looking to collaborate on **[你想合作的專案類型或想法]**
-*   🤔 I’m looking for help with **[你需要幫助的技術或問題]**
-*   💬 Ask me about **[你擅長或樂於分享的主題]**
-*   📫 How to reach me: **[你的主要聯絡方式，例如 Email 或 LinkedIn Profile URL]**
-*   😄 Pronouns: **[你的代名詞，例如：He/Him, She/Her, They/Them]**
-*   ⚡ Fun fact: **[關於你的一個有趣小事實]**
+<!-- Optional: Add some badges for flair -->
+<p align="center">
+  <a href="https://github.com/[你的 GitHub 使用者名稱]?tab=repositories"><img src="https://img.shields.io/badge/Projects-%3E%20Explore-blueviolet?style=for-the-badge&logo=github" alt="My Projects"/></a>
+  <a href="[你的 LinkedIn Profile URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:[你的 Email 地址]"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+<!-- *********************************************************************** -->
+<!-- ** 🚀 CURRENT FOCUS & LEARNING 🚀 ** -->
+<!-- *********************************************************************** -->
 
-Here are some of the technologies and tools I frequently work with:
+<h2 align="center">🚀 What I'm Up To</h2>
 
-**Languages:**
-<p>
-  <img src="[語言圖標 URL，例如：JavaScript]" alt="JavaScript" width="40" height="40"/> 
-  <img src="[語言圖標 URL，例如：Python]" alt="Python" width="40" height="40"/> 
-  <img src="[語言圖標 URL，例如：HTML5]" alt="HTML5" width="40" height="40"/> 
-  <img src="[語言圖標 URL，例如：CSS3]" alt="CSS3" width="40" height="40"/> 
-  <!-- 添加更多語言圖標 -->
-</p>
-
-**Frontend:**
-<p>
-  <img src="[前端框架/庫圖標 URL，例如：React]" alt="React" width="40" height="40"/> 
-  <img src="[前端框架/庫圖標 URL，例如：Vue]" alt="Vue.js" width="40" height="40"/> 
-  <img src="[前端工具圖標 URL，例如：Webpack]" alt="Webpack" width="40" height="40"/> 
-  <!-- 添加更多前端技術圖標 -->
-</p>
-
-**Backend:**
-<p>
-  <img src="[後端框架/平台圖標 URL，例如：Node.js]" alt="Node.js" width="40" height="40"/> 
-  <img src="[後端框架/平台圖標 URL，例如：Django]" alt="Django" width="40" height="40"/> 
-  <!-- 添加更多後端技術圖標 -->
-</p>
-
-**Databases:**
-<p>
-  <img src="[資料庫圖標 URL，例如：MongoDB]" alt="MongoDB" width="40" height="40"/> 
-  <img src="[資料庫圖標 URL，例如：PostgreSQL]" alt="PostgreSQL" width="40" height="40"/> 
-  <!-- 添加更多資料庫圖標 -->
-</p>
-
-**Tools & Platforms:**
-<p>
-  <img src="[工具/平台圖標 URL，例如：Git]" alt="Git" width="40" height="40"/> 
-  <img src="[工具/平台圖標 URL，例如：Docker]" alt="Docker" width="40" height="40"/> 
-  <img src="[工具/平台圖標 URL，例如：AWS]" alt="AWS" width="40" height="40"/> 
-  <img src="[工具/平台圖標 URL，例如：VS Code]" alt="VS Code" width="40" height="40"/> 
-  <!-- 添加更多工具圖標 -->
-</p>
-
-*(**提示:** 你可以從 [Devicon](https://devicon.dev/) 或 [Simple Icons](https://simpleicons.org/) 尋找圖標資源)*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Working On</h3>
+      <ul>
+        <li>Building **[主要專案 1 名稱]** - [簡短描述]</li>
+        <li>Contributing to **[開源專案名稱 或 其他專案]**</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Learning</h3>
+      <ul>
+        <li>Exploring **[新技術/語言 1]**</li>
+        <li>Diving deeper into **[現有技術/概念 2]**</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 My GitHub Stats
+<!-- *********************************************************************** -->
+<!-- ** 🛠️ TECH STACK 🛠️ ** -->
+<!-- *********************************************************************** -->
+
+<h2 align="center">🛠️ My Tech Arsenal</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[你的 GitHub 使用者名稱]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的 GitHub 使用者名稱]&layout=compact&langs_count=8&theme=radical"/>
+  <em>Tools and technologies I love working with:</em>
 </p>
 
-*(**提示:** 前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 查看更多主題和自訂選項)*
+<!-- Tip: 使用一致的圖標來源，例如 Devicon (https://devicon.dev/) 或 Simple Icons (https://simpleicons.org/) -->
+<!-- Tip: 調整 width 和 height 讓圖標大小一致，例如 45x45 -->
 
-<!-- 可選： WakaTime 統計 (如果你使用 WakaTime) -->
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[你的 WakaTime 使用者名稱]" />
+  <!-- Languages -->
+  <img src="[語言圖標 URL]" alt="[語言名稱]" width="45" height="45"/>  
+  <img src="[語言圖標 URL]" alt="[語言名稱]" width="45" height="45"/>  
+  <!-- Frameworks/Libraries -->
+  <img src="[框架圖標 URL]" alt="[框架名稱]" width="45" height="45"/>  
+  <img src="[框架圖標 URL]" alt="[框架名稱]" width="45" height="45"/>  
+  <!-- Databases -->
+  <img src="[資料庫圖標 URL]" alt="[資料庫名稱]" width="45" height="45"/>  
+  <!-- Tools/Platforms -->
+  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
+  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
+  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
 </p>
--->
 
-<!-- 可選： GitHub Readme Snake Game -->
+---
+
+<!-- *********************************************************************** -->
+<!-- ** 📊 GITHUB STATS & SPOTIFY 🎧 ** -->
+<!-- *********************************************************************** -->
+
+<h2 align="center">📊 My Stats & 🎧 Now Listening</h2>
+
+<table width="100%">
+  <tr>
+    <!-- GitHub Stats -->
+    <td width="55%" valign="top">
+      <p align="center">
+        <!-- Tip: 試試不同的 theme! 例如: dracula, tokyonight, gruvbox, merko, radical, nord, solarized-light... -->
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[你的 GitHub 使用者名稱]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的 GitHub 使用者名稱]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </p>
+    </td>
+    <!-- Spotify Now Playing -->
+    <td width="45%" valign="top">
+       <p align="center">
+         <!--
+           ** Spotify Integration **
+           你需要使用一個服務來生成這個圖片。
+           熱門選項: https://github.com/kittinan/spotify-github-profile (需要自行部署到 Vercel)
+                      或尋找公開的 Vercel 部署實例。
+           替換下面的 src URL:
+           - uid=[你的 Spotify User ID] (不是顯示名稱，是一串數字字母，可以在帳號設定中找到分享連結，連結最後那串就是)
+           - theme= 可選 (例如: bar, dark, light, auto)
+           - cover_image=true/false
+           - ... 更多選項請參考你使用的服務文件
+         -->
+         <a href="https://spotify-github-profile.vercel.app/api/view?uid=[你的 Spotify User ID]&cover_image=true&theme=bar" target="_blank">
+           <img src="https://spotify-github-profile.vercel.app/api/view?uid=[你的 Spotify User ID]&cover_image=true&theme=bar&show_offline=true&background_color=121212&interchange=true&bar_color=1db954&bar_color_secondary=ffffff" alt="Spotify Now Playing" width="350" />
+         </a>
+         <!-- 如果上面的連結失效，你可能需要尋找替代方案或自行部署 -->
+       </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Optional: GitHub Readme Snake Game -->
 <!--
 <p align="center">
  <img src="https://github.com/[你的 GitHub 使用者名稱]/[你的 GitHub 使用者名稱]/blob/output/github-contribution-grid-snake.svg" alt="snake" />
@@ -93,61 +131,59 @@ Here are some of the technologies and tools I frequently work with:
 
 ---
 
-## ✨ Featured Projects
+<!-- *********************************************************************** -->
+<!-- ** ✨ FEATURED PROJECTS ✨ ** -->
+<!-- *********************************************************************** -->
 
-Here are some projects I'm proud of:
+<h2 align="center">✨ Featured Projects</h2>
 
+<!-- Tip: 使用 GIF 動圖展示專案效果更佳！(可以用 ScreenToGif 等工具錄製) -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[專案 1 的 GitHub 或 Demo 連結]" target="_blank">[專案 1 名稱]</a></h3>
-      <p>[專案 1 的簡短描述，說明它的功能和使用的主要技術。]</p>
-      <!-- 可選：放一個專案的截圖或 GIF -->
-      <img src="[專案 1 的截圖/GIF URL]" alt="Project 1 Demo" width="100%"/>
+      <h3 align="center">[專案 1 名稱]</h3>
+      <p align="center"><a href="[專案 1 的 GitHub Repo 連結]"><img src="https://img.shields.io/badge/Code-View%20on%20GitHub-informational?style=flat&logo=github" alt="View Code"/></a> <!-- Optional Demo Link: <a href="[專案 1 的 Demo 連結]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat&logo=netlify" alt="Live Demo"/></a> --></p>
+      <p align="center">
+        <img src="[專案 1 的截圖或 GIF URL]" alt="Project 1 Preview" width="90%"/>
+      </p>
+      <p align="center">[專案 1 的簡短描述，強調亮點和技術棧。]</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[專案 2 的 GitHub 或 Demo 連結]" target="_blank">[專案 2 名稱]</a></h3>
-      <p>[專案 2 的簡短描述，說明它的功能和使用的主要技術。]</p>
-       <!-- 可選：放一個專案的截圖或 GIF -->
-      <img src="[專案 2 的截圖/GIF URL]" alt="Project 2 Demo" width="100%"/>
+      <h3 align="center">[專案 2 名稱]</h3>
+      <p align="center"><a href="[專案 2 的 GitHub Repo 連結]"><img src="https://img.shields.io/badge/Code-View%20on%20GitHub-informational?style=flat&logo=github" alt="View Code"/></a> <!-- Optional Demo Link: <a href="[專案 2 的 Demo 連結]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat&logo=vercel" alt="Live Demo"/></a> --></p>
+       <p align="center">
+        <img src="[專案 2 的截圖或 GIF URL]" alt="Project 2 Preview" width="90%"/>
+      </p>
+       <p align="center">[專案 2 的簡短描述，強調亮點和技術棧。]</p>
     </td>
   </tr>
-  <!-- 你可以添加更多行來展示更多專案 -->
+  <!-- 你可以添加更多 `<tr>...</tr>` 來展示更多專案 -->
 </table>
-
-➡️ [查看我的所有專案](https://github.com/[你的 GitHub 使用者名稱]?tab=repositories)
-
----
-
-## 📈 Recent Activity / Blog Posts
-
-<!-- 使用 GitHub Actions 自動更新這部分 -->
-<!-- 例如，使用 blog-post-workflow -->
-<!-- START_SECTION:blog -->
-<!-- LATEST_BLOG_POSTS_LIST -->
-<!-- END_SECTION:blog -->
-
-<!-- 例如，使用 github-activity-readme -->
-<!--START_SECTION:activity-->
-<!--RECENT_ACTIVITY:5-->
-<!--END_SECTION:activity-->
-
-*(**提示:** 這部分需要設定 GitHub Actions Workflow。請參考 [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 或 [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) 的說明文件)*
-
----
-
-## ☕ Connect with Me
-
-Let's connect and chat! You can find me on:
-
-<p align="left">
-<a href="[你的 LinkedIn Profile URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[你的名字] LinkedIn" height="30" width="40" /></a>
-<a href="[你的 Twitter Profile URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[你的名字] Twitter" height="30" width="40" /></a>
-<a href="[你的個人網站 URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="[你的個人網站]" height="30" width="40" /></a>
-<a href="mailto:[你的 Email 地址]"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email Me" height="30" width="40" /></a>
-<!-- 添加更多社交連結，例如 Medium, Dev.to 等 -->
+<p align="center">
+  <a href="https://github.com/[你的 GitHub 使用者名稱]?tab=repositories">➡️ View All My Repositories</a>
 </p>
 
 ---
 
-⭐️ From [你的名字]
+<!-- *********************************************************************** -->
+<!-- ** 📬 CONTACT / SOCIALS 📬 ** -->
+<!-- *********************************************************************** -->
+
+<h2 align="center">📬 Get In Touch</h2>
+
+<p align="center">
+  Let's connect! Find me on: <br/><br/>
+  <a href="[你的 LinkedIn Profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+  <a href="[你的 Twitter Profile URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> 
+  <a href="[你的個人網站 URL]" target="_blank"><img src="https://img.shields.io/badge/Website-YourChoice-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> 
+  <a href="mailto:[你的 Email 地址]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <!-- 添加更多徽章風格的社交連結 -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[你的 GitHub 使用者名稱]&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+<!-- Made with ❤️ by [你的名字] -->
