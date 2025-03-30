@@ -30,8 +30,8 @@
     4. Customize theme (`dark`, `light`, `auto` etc.), colors if desired. The current theme=dark is often preferred.
     5. TEST the `src` URL in your browser to ensure it works!
   -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=dark" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=dark&show_offline=false&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_secondary=161b22" alt="Spotify Now Playing" width="360" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=[t377aemu09x7z4mkel5kzd7fh]&cover_image=true&theme=dark" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[t377aemu09x7z4mkel5kzd7fh]&cover_image=true&theme=dark&show_offline=false&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_secondary=161b22" alt="Spotify Now Playing" width="360" />
   </a>
   <!-- If the vercel.app link is broken, you MUST find an alternative or deploy your own instance! -->
 </p>
