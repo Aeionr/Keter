@@ -1,53 +1,67 @@
 <!-- *********************************************************************** -->
-<!-- ** ✨ HEADER / BANNER ✨ ** -->
+<!-- ** ✨ VISUAL HEADER (Make it Pop!) ✨ ** -->
 <!-- *********************************************************************** -->
 
 <p align="center">
-  <!-- 🎨 Tip: 設計一個酷炫的 Banner (約 1280x400) 放在這裡！ -->
-  <!--    將圖片上傳到你的這個 Profile Repo (Keter/Keter) 或使用圖片託管服務 -->
-  <img src="[YOUR_BANNER_IMAGE_URL]" alt="Hi, I'm Keter" width="100%"/>
+  <!-- 🔥 Tip: Replace this with a cool animated GIF or a sleek, wide banner (e.g., 1280x300) -->
+  <!--    Upload it to this repo (Keter/Keter) or use an image hosting service. -->
+  <img src="[YOUR_BANNER_OR_GIF_URL]" alt="Hi, I'm Keter" width="100%"/>
 </p>
 
 <!-- *********************************************************************** -->
-<!-- ** 👋 INTRODUCTION 👋 ** -->
+<!-- ** 👋 INTRO & CORE LINKS 👋 ** -->
 <!-- *********************************************************************** -->
 
-<h1 align="center">Hey there, I'm Keter! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm Keter! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="wave"></h1>
+
 <p align="center">
-  <em>A [你的角色，例如：軟體工程師 / 前端開發者...] from [你的所在地]</em><br/>
-  Passionate about [你熱衷的領域 1] & [你熱衷的領域 2]. Turning ideas into reality with code.
+  <em>[Your Role, e.g., Full-Stack Developer | Open Source Enthusiast | Tech Explorer] based in [Your Location].</em>
+  <br />
+  I'm passionate about building cool things with code and constantly learning new technologies.
 </p>
 
-<!-- Optional: Add some badges for flair -->
 <p align="center">
-  <a href="https://github.com/Keter?tab=repositories"><img src="https://img.shields.io/badge/Projects-%3E%20Explore-blueviolet?style=for-the-badge&logo=github" alt="My Projects"/></a>
-  <a href="[你的 LinkedIn Profile URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:[你的 Email 地址]"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/Keter?tab=repositories">
+    <img src="https://img.shields.io/badge/My%20Projects-Explore-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
+  </a> 
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/Email_Me-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a> 
+  <a href="[YOUR_PORTFOLIO_OR_WEBSITE_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio/Website"/>
+  </a>
 </p>
 
----
+<br/>
 
 <!-- *********************************************************************** -->
-<!-- ** 🚀 CURRENT FOCUS & LEARNING 🚀 ** -->
+<!-- ** 🔭 ABOUT ME & CURRENTLY... (Side-by-Side) 🚀 ** -->
 <!-- *********************************************************************** -->
-
-<h2 align="center">🚀 What I'm Up To</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 Working On</h3>
-      <ul>
-        <li>Building **[你正在做的主要專案名稱]** - [簡短描述]</li>
-        <li>Contributing to **[開源專案或你的其他專案]**</li>
-      </ul>
+      <h2 align="center">🔭 About Me</h2>
+        <ul>
+          <li>🌍 Based in [Your Location]</li>
+          <li>💻 Love working with [Key Technology 1] and [Key Technology 2]</li>
+          <li>🌱 Always exploring [Area of Interest, e.g., AI, WebAssembly, DevOps]</li>
+          <li>👯 Open to collaborating on [Type of Projects, e.g., open-source, innovative web apps]</li>
+          <li>⚡ Fun fact: [A quirky or interesting fact about you!]</li>
+        </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Learning</h3>
-      <ul>
-        <li>Exploring **[你正在學習的新技術 1]**</li>
-        <li>Diving deeper into **[你想精進的技術 2]**</li>
-      </ul>
+      <h2 align="center">🚀 Currently</h2>
+        <ul>
+          <li>🔨 Building **[Your Main Current Project]** - [Short description]</li>
+          <li>📚 Learning **[New Skill/Tech You're Learning]**</li>
+          <li>💡 Experimenting with **[Another Tech/Concept]**</li>
+          <li>✍️ Writing about [Blog Topic?] on [Platform/Link?]</li>
+          <li>💬 Ask me about **[Topics you enjoy discussing]**</li>
+        </ul>
     </td>
   </tr>
 </table>
@@ -55,79 +69,82 @@
 ---
 
 <!-- *********************************************************************** -->
-<!-- ** 🛠️ TECH STACK 🛠️ ** -->
+<!-- ** 🛠️ TECH ARSENAL 🛠️ ** -->
 <!-- *********************************************************************** -->
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
 <p align="center">
-  <em>Tools and technologies I love working with:</em>
+  <em>Technologies and tools I frequently use and love:</em>
 </p>
 
-<!-- Tip: 從 Devicon (https://devicon.dev/) 或 Simple Icons (https://simpleicons.org/) 尋找圖標 -->
-<!-- Tip: 設定 width="45" height="45" 讓圖標大小一致 -->
+<!-- Tip: Use consistent icons from Devicon (https://devicon.dev/) or Simple Icons (https://simpleicons.org/) -->
+<!-- Tip: Set width/height (e.g., width="48" height="48") for uniform size. -->
 
 <p align="center">
   <!-- Languages -->
-  <img src="[語言圖標 URL]" alt="[語言名稱]" width="45" height="45"/>  
-  <img src="[語言圖標 URL]" alt="[語言名稱]" width="45" height="45"/>  
-  <!-- Frameworks/Libraries -->
-  <img src="[框架圖標 URL]" alt="[框架名稱]" width="45" height="45"/>  
-  <img src="[框架圖標 URL]" alt="[框架名稱]" width="45" height="45"/>  
+  <img src="[ICON_URL]" alt="[Language Name]" title="[Language Name]" width="48" height="48"/>  
+  <img src="[ICON_URL]" alt="[Language Name]" title="[Language Name]" width="48" height="48"/>  
+  <!-- Frontend -->
+  <img src="[ICON_URL]" alt="[Framework/Lib Name]" title="[Framework/Lib Name]" width="48" height="48"/>  
+  <img src="[ICON_URL]" alt="[Framework/Lib Name]" title="[Framework/Lib Name]" width="48" height="48"/>  
+  <!-- Backend -->
+  <img src="[ICON_URL]" alt="[Framework/Platform Name]" title="[Framework/Platform Name]" width="48" height="48"/>  
   <!-- Databases -->
-  <img src="[資料庫圖標 URL]" alt="[資料庫名稱]" width="45" height="45"/>  
-  <!-- Tools/Platforms -->
-  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
-  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
-  <img src="[工具圖標 URL]" alt="[工具名稱]" width="45" height="45"/>  
-  <!-- Add more icons as needed -->
+  <img src="[ICON_URL]" alt="[Database Name]" title="[Database Name]" width="48" height="48"/>  
+  <!-- Tools & Platforms -->
+  <img src="[ICON_URL]" alt="[Tool Name]" title="[Tool Name]" width="48" height="48"/>  
+  <img src="[ICON_URL]" alt="[Tool Name]" title="[Tool Name]" width="48" height="48"/>  
+  <img src="[ICON_URL]" alt="[Tool Name]" title="[Tool Name]" width="48" height="48"/>  
+  <!-- Add more icons -->
 </p>
 
 ---
 
 <!-- *********************************************************************** -->
-<!-- ** 📊 GITHUB STATS & SPOTIFY 🎧 ** -->
+<!-- ** 📊 GITHUB STATS & 🎧 SPOTIFY (Side-by-Side) ** -->
 <!-- *********************************************************************** -->
 
-<h2 align="center">📊 My Stats & 🎧 Now Listening</h2>
+<h2 align="center">📊 My GitHub Pulse & 🎧 Currently Vibing With</h2>
 
 <table width="100%">
   <tr>
-    <!-- GitHub Stats - 已填入 Keter -->
-    <td width="55%" valign="top">
+    <!-- GitHub Stats - Pre-filled for Keter -->
+    <td width="55%" valign="center">
       <p align="center">
-        <!-- Tip: 試試不同的 theme! 例如: dracula, tokyonight, gruvbox, merko, radical, nord, solarized-light... -->
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Keter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+        <!-- ✨ Tip: Change the theme! Popular options: dracula, gruvbox, merko, radical, nord, solarized-dark, monokai, etc. -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&line_height=24"/>
+        <br/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320"/>
       </p>
     </td>
-    <!-- Spotify Now Playing - **你需要設定這個！** -->
-    <td width="45%" valign="top">
+    <!-- Spotify Now Playing - **ACTION REQUIRED BY YOU!** -->
+    <td width="45%" valign="center">
        <p align="center">
          <!--
-           ** Spotify 設定步驟 **
-           1.  **找到你的 Spotify User ID:** 登入 Spotify 網頁版 -> 帳號 -> 分享 -> 複製個人檔案連結。連結最後面 `user/` 後面的那串隨機字符就是你的 User ID (例如 1a2b3c4d5e6f7g8h9i0j)。
-           2.  **選擇/設定服務:**
-               *   **推薦:** 使用 `spotify-github-profile` (https://github.com/kittinan/spotify-github-profile)。你需要將它部署到你自己的 Vercel (免費方案通常足夠)。跟著該專案的 README 進行設定 (連接 Spotify Developer App)。
-               *   **備選:** 尋找公開的部署實例 (像下面 URL 中 `spotify-github-profile.vercel.app` 這樣的)。風險是這些公開服務可能不穩定或失效。
-           3.  **替換 URL 中的 ID:** 將下面的 `[YOUR_SPOTIFY_USER_ID]` 替換成你找到的 User ID。
-           4.  **自訂樣式 (可選):** 更改 `theme=`, `cover_image=`, `show_offline=`, `background_color=`, `bar_color=` 等參數。
-           5.  **測試:** 把替換好 ID 的完整 `src` URL 貼到瀏覽器，看看是否能正常顯示圖片。
+           ** === SPOTIFY SETUP (IMPORTANT!) === **
+           1.  **Find Your Spotify User ID:** Login to Spotify Web -> Account -> Share -> Copy link to profile. The string AFTER `user/` is your ID (e.g., 1a2b3c4d5e6f7g8h9i0j).
+           2.  **Choose/Deploy Service:**
+               *   **RECOMMENDED:** Use `spotify-github-profile` (https://github.com/kittinan/spotify-github-profile). You NEED to deploy this yourself to Vercel (free tier usually works). Follow its README to set up (link Spotify Dev App). This is the most reliable way.
+               *   **Alternative:** Look for public Vercel instances (like the URL below). WARNING: These can be unstable or disappear!
+           3.  **Replace ID in URL:** Put YOUR User ID into `[YOUR_SPOTIFY_USER_ID]` in the `src` URL below.
+           4.  **Customize (Optional):** Change `theme=`, `cover_image=`, `bar_color=`, etc. in the URL.
+           5.  **TEST:** Paste the final `src` URL into your browser to see if it generates the image correctly.
          -->
-         <a href="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=bar" target="_blank">
-           <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=bar&show_offline=true&background_color=121212&interchange=true&bar_color=1db954&bar_color_secondary=ffffff" alt="Spotify Now Playing" width="350" />
+         <a href="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=dark" target="_blank">
+           <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=dark&show_offline=false&background_color=121212&interchange=true&bar_color=1db954&bar_color_secondary=e0e0e0" alt="Spotify Now Playing" width="380" />
          </a>
-         <!-- 如果上面的 vercel.app 連結失效，你需要尋找替代方案或自己部署 -->
+         <!-- If the vercel.app link above is broken, you MUST find an alternative or deploy your own instance! -->
        </p>
     </td>
   </tr>
 </table>
 
-<!-- Optional: GitHub Readme Snake Game - 已填入 Keter -->
-<!-- 需要設定對應的 GitHub Action -->
+<!-- Optional: GitHub Readme Snake Game - Pre-filled for Keter -->
+<!-- Requires setting up the corresponding GitHub Action -->
 <!--
 <p align="center">
- <img src="https://github.com/Keter/Keter/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Keter/Keter/blob/output/github-contribution-grid-snake.svg" alt="Keter's GitHub Snake" />
 </p>
 -->
 
@@ -137,30 +154,39 @@
 <!-- ** ✨ FEATURED PROJECTS ✨ ** -->
 <!-- *********************************************************************** -->
 
-<h2 align="center">✨ Featured Projects</h2>
+<h2 align="center">✨ Featured Creations</h2>
 
-<!-- Tip: 用 GIF 動圖展示專案效果更佳！(可用 ScreenToGif 等工具錄製) -->
-<!-- Tip: 加入你的專案資訊 -->
+<!-- 🔥 Tip: Use GIFs to showcase your projects in action! Record with ScreenToGif, Kap, etc. -->
+<!-- Add your best projects below -->
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">[你的專案 1 名稱]</h3>
-      <p align="center"><a href="[專案 1 的 GitHub Repo 連結]"><img src="https://img.shields.io/badge/Code-View%20on%20GitHub-informational?style=flat&logo=github" alt="View Code"/></a> <!-- Optional Demo Link: <a href="[專案 1 的 Demo 連結]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat&logo=netlify" alt="Live Demo"/></a> --></p>
+      <h3 align="center">[Your Project 1 Name]</h3>
       <p align="center">
-        <img src="[專案 1 的截圖或 GIF URL]" alt="Project 1 Preview" width="90%"/>
+        <a href="[Project 1 GitHub Repo URL]"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/></a> 
+        <!-- Optional Demo Link: -->
+        <a href="[Project 1 Live Demo URL]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
       </p>
-      <p align="center">[專案 1 的簡短描述，強調亮點和技術棧。]</p>
+      <p align="center">
+        <img src="[Project 1 Screenshot or GIF URL]" alt="Project 1 Preview" width="90%"/>
+      </p>
+      <p align="center"><em>[Short, impactful description of Project 1. Highlight key features and tech used.]</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">[你的專案 2 名稱]</h3>
-      <p align="center"><a href="[專案 2 的 GitHub Repo 連結]"><img src="https://img.shields.io/badge/Code-View%20on%20GitHub-informational?style=flat&logo=github" alt="View Code"/></a> <!-- Optional Demo Link: <a href="[專案 2 的 Demo 連結]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat&logo=vercel" alt="Live Demo"/></a> --></p>
-       <p align="center">
-        <img src="[專案 2 的截圖或 GIF URL]" alt="Project 2 Preview" width="90%"/>
+      <h3 align="center">[Your Project 2 Name]</h3>
+      <p align="center">
+        <a href="[Project 2 GitHub Repo URL]"><img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/></a> 
+        <!-- Optional Demo Link: -->
+        <a href="[Project 2 Live Demo URL]"><img src="https://img.shields.io/badge/Demo-Live%20Preview-blue?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
       </p>
-       <p align="center">[專案 2 的簡短描述，強調亮點和技術棧。]</p>
+       <p align="center">
+        <img src="[Project 2 Screenshot or GIF URL]" alt="Project 2 Preview" width="90%"/>
+      </p>
+       <p align="center"><em>[Short, impactful description of Project 2. Highlight key features and tech used.]</em></p>
     </td>
   </tr>
-  <!-- 添加更多 `<tr>...</tr>` 來展示更多專案 -->
+  <!-- Add more rows (`<tr>...</tr>`) for more projects if needed -->
 </table>
 <p align="center">
   <a href="https://github.com/Keter?tab=repositories">➡️ View All My Repositories</a>
@@ -169,25 +195,29 @@
 ---
 
 <!-- *********************************************************************** -->
-<!-- ** 📬 CONTACT / SOCIALS 📬 ** -->
+<!-- ** 📬 CONNECT WITH ME 📬 ** -->
 <!-- *********************************************************************** -->
 
-<h2 align="center">📬 Get In Touch</h2>
+<h2 align="center">📬 Let's Connect!</h2>
 
 <p align="center">
-  Let's connect! Find me on: <br/><br/>
-  <a href="[你的 LinkedIn Profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-  <a href="[你的 Twitter Profile URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> 
-  <a href="[你的個人網站 URL]" target="_blank"><img src="https://img.shields.io/badge/Website-YourChoice-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> 
-  <a href="mailto:[你的 Email 地址]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
-  <!-- 添加更多徽章風格的社交連結 -->
+  Feel free to reach out for collaborations, questions, or just a chat! <br/><br/>
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+  <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> 
+  <a href="[YOUR_PORTFOLIO_OR_WEBSITE_URL]" target="_blank"><img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website/Portfolio"/></a> 
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <!-- Add other relevant social links (e.g., Dev.to, Medium, Stack Overflow) using Shields.io -->
 </p>
 
 ---
 
+<!-- *********************************************************************** -->
+<!-- ** 📈 PROFILE VIEWS COUNTER 📈 ** -->
+<!-- *********************************************************************** -->
+
 <p align="center">
-  <!-- Profile Views Badge - 已填入 Keter -->
-  <img src="https://komarev.com/ghpvc/?username=Keter&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Keter&label=PROFILE%20VISITORS&color=blueviolet&style=for-the-badge" alt="Keter :: Profile Visitors" />
 </p>
 
-<!-- Made with ❤️ by Keter -->
+<!-- Optional: Add a closing line -->
+<!-- <p align="center"><sub>Built with ❤️ and lots of ☕</sub></p> -->
